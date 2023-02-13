@@ -1,0 +1,26 @@
+body{
+    background: rgb(231, 148, 148);
+}
+section{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+h1,h2,h3{
+    text-align: center;
+}
+.img-div{
+
+}
+img{
+    width: 100%;
+}
+.btn-div{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+button{
+    padding: 7px;
+}

@@ -1,0 +1,39 @@
+body{
+    background-image: url(shollypee1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 100vh;
+    background-attachment: scroll;
+   
+}
+h1{
+    /* color: white; */
+}
+p{
+    /* color: white; */
+    text-align: left;
+    font-size: 20px;
+}
+.text-layer{
+    width: 90%;
+    height: auto;
+    background: white;
+    margin-inline: auto;
+    opacity: 0.6;
+    border-radius: 7px;
+    padding: 5px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.btn-div{
+    display: flex;
+    justify-content: space-between;
+    padding-block: 10px;
+}
+button{
+    padding: 8px;
+}
